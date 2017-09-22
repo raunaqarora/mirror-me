@@ -10,7 +10,7 @@ Getting Started
 
 ### Installation
 
-The package includes a python virtual enviornment with all libraries included so there needs to be no additional installation other than the repository. 
+The package includes a python virtual environment with all libraries included so there needs to be no additional installation other than the repository. 
 
 ### Usage
 
